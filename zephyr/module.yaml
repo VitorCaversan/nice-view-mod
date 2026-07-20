@@ -1,4 +1,4 @@
-name: 'zmk-shield-nice!view-custom'
+name: 'zmk-shield-nice!view-custom-right'
 build:
   settings:
     board_root: .
